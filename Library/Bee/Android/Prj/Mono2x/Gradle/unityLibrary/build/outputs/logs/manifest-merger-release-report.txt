@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:99-145
+	android:versionCode
+		INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-26:17
+	android:extractNativeLibs
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:16-48
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:5-14:16
+	android:screenOrientation
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:111-147
+	android:launchMode
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:148-179
+	android:hardwareAccelerated
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:396-431
+	android:resizeableActivity
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:362-395
+	android:configChanges
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:180-361
+	android:theme
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:69-110
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:7-8:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:9-61
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:9-69
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:7-82
+	android:value
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:59-79
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:18-58
+meta-data#WindowManagerPreference:FreeformWindowSize
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:7-127
+	android:value
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:76-124
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:18-75
+meta-data#WindowManagerPreference:FreeformWindowOrientation
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:7-144
+	android:value
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:83-141
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:18-82
+layout
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:7-128
+	android:minWidth
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:101-125
+	android:minHeight
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:75-100
+	android:defaultHeight
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:15-45
+	android:defaultWidth
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:46-74
+meta-data#android.notch_support
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:7-78
+	android:value
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:55-75
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:18-54
+meta-data#unity.splash-mode
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-69
+	android:value
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:49-66
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-74
+	android:value
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:51-71
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-50
+meta-data#unity.launch-fullscreen
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-78
+	android:value
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:55-75
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-54
+meta-data#unity.allow-resizable-window
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-83
+	android:value
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:60-80
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-59
+meta-data#notch.config
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-81
+	android:value
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:44-78
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:16-43
+receiver#com.unity.androidnotifications.UnityNotificationManager
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:5-113
+	android:exported
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:86-110
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:15-85
+receiver#com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:5-25:16
+	android:enabled
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:100-123
+	android:exported
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:124-148
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:15-99
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:7-24:23
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:9-71
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:17-68
+uses-feature#0x00030000
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:3-52
+	android:glEsVersion
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:17-49
+uses-feature#android.hardware.vulkan.version
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:3-91
+	android:required
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:64-88
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:17-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:3-65
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:3-77
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:20-74
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:3-88
+	android:required
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:61-85
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:3-99
+	android:required
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:72-96
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:3-108
+	android:required
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:81-105
+	android:name
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:17-80
+uses-sdk
+INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abjsi\Favorites\Unity Projects\HANDS ON (BETA 1.0.2)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
